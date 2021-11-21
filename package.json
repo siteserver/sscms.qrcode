@@ -2,11 +2,11 @@
   "name": "qrcode",
   "displayName": "二维码显示插件",
   "description": "二维码插件用于在模板中通过标签将 URL 地址生成二维码图片并展示在页面中",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "license": "AGPL-3.0",
   "publisher": "sscms",
   "engines": {
-    "sscms": "^7.0.8"
+    "sscms": "^7.1.0"
   },
   "categories": [
     "Other"
